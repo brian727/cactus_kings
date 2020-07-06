@@ -17,6 +17,6 @@ Judges were impressed by the breadth and depth of the project. They cited in par
 * Kate Gunby, Sociologist @kategunby
 * Lucio Villa, News Applications Developer @luciovilla
 * Astrid Galván, Journalist @astridgalvan
-* Brian White, Journalist @_BrianWhite
+* Brian White, Journalist @_BrianHanna
 * Jeannine Relly, Researcher and Assistant Professor at University of Arizona School of Journalism @JeannineRelly
 * Susan E. Swanberg, Journalist @seswanberg
